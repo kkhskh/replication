@@ -621,7 +621,4 @@ static void __exit network_shadow_exit(void)
 
 module_init(network_shadow_init);
 module_exit(network_shadow_exit);
-
-MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Shadow Driver Implementation");
 MODULE_DESCRIPTION("Network Shadow Driver Implementation");

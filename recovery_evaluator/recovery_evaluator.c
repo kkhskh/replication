@@ -546,5 +546,3 @@ module_init(init_recovery_evaluator);
 module_exit(cleanup_recovery_evaluator);
 
 MODULE_AUTHOR("Based on Swift et al.");
-MODULE_DESCRIPTION("Tool to evaluate shadow driver recovery");
-MODULE_LICENSE("GPL");
